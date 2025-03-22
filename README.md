@@ -19,7 +19,6 @@ Welcome to my GitHub! I’m a Physics PhD candidate at McGill University with a 
 🌱 Let’s Connect!
 
 I’m actively exploring opportunities where I can apply my technical expertise and research skills to impactful problems in AI, data science, and technology. Feel free to connect with me:
-	•	🌐 LinkedIn
-	•	✉️ Email
+	•	🌐 LinkedIn: https://www.linkedin.com/in/viraj-meruliya/
 
  
