@@ -1,6 +1,6 @@
 👋 Hi, I’m Viraj Meruliya!
 
-Welcome to my GitHub! I’m a Physics PhD candidate at McGill University with a strong passion for theoretical physics, data science, and machine learning. My journey bridges the gap between fundamental research in quantum and gravitational physics and solving real-world problems with data-driven approaches.
+Welcome to my GitHub! I’m a Physics PhD candidate at McGill University with a strong passion for theoretical physics, data science, and machine learning.
 
 🌌 About Me
 
